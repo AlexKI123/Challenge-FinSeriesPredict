@@ -9,7 +9,7 @@ The repository includes an EDA notebook that guides the initial investigation of
 
 
 ### [Optimal Learning Rate Finder](LearningRateFinder.ipynb)
-A Python notebook implementing a Learning Rate Finder to identify the most effective learning rate for training deep learning models. This facilitates the selection of a learning rate that balances the convergence speed and stability of the model training process.
+A Python notebook implementing a Learning Rate Finder to empirically identify the most effective learning rate for training deep learning models. The findings from this exploration are crucial for setting the boundaries of the Cyclical Learning Rate (CLR) strategy, ensuring the selection of a learning rate range that promotes rapid convergence while maintaining model stability.
 
 ### Predictive Modeling with XGBoost
 Demonstrates the application of the XGBoost framework to financial time series prediction.
@@ -17,8 +17,8 @@ Demonstrates the application of the XGBoost framework to financial time series p
 ### [Model Architecture Optimization with KerasTuner](KerasTuner.ipynb)                          
 Utilizes KerasTuner to automate the search for the optimal neural network architecture. Evaluates various configurations to identify the structure offering the best prediction accuracy.
 
-### LSTM-Based Time Series Forecasting
-Explores the use of Long Short-Term Memory (LSTM) networks for predicting market conditions, including steps for data preprocessing, model construction, training, and evaluation.
+### [LSTM-Based Time Series Forecasting with Cyclical Learning Rate](LSTM_with_CyclicalLearningRates.ipynb)       
+Explores the use of Long Short-Term Memory (LSTM) networks for predicting market conditions, incorporating a Cyclical Learning Rate (CLR) strategy based on the idea presented in [Smith, 2015](https://arxiv.org/abs/1506.01186). This approach aims to enhance the accuracy and robustness of the model by varying the learning rate within a predefined range, allowing for more effective navigation of the loss landscape.
 
 ## Dataset and Challenge Context
 
