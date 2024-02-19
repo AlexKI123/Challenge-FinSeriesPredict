@@ -8,7 +8,7 @@ This repository presents a comprehensive exploration of machine learning techniq
 The repository includes an EDA notebook that guides the initial investigation of the financial time series data. This notebook covers data visualization, statistical summaries, and preliminary analysis, laying the groundwork for informed model development and hypothesis generation.
 
 
-### Optimal Learning Rate Determination
+### [Optimal Learning Rate Determination](LearningRateFinder.ipynb)
 A Python notebook implementing a Learning Rate Finder to empirically identify the most effective learning rate for training deep learning models. This facilitates the selection of a learning rate that balances the convergence speed and stability of the model training process.
 
 ### Model Architecture Optimization with KerasTuner
