@@ -11,11 +11,11 @@ The repository includes an EDA notebook that guides the initial investigation of
 ### [Optimal Learning Rate Finder](LearningRateFinder.ipynb)
 A Python notebook implementing a Learning Rate Finder to identify the most effective learning rate for training deep learning models. This facilitates the selection of a learning rate that balances the convergence speed and stability of the model training process.
 
-### [Model Architecture Optimization with KerasTuner](KerasTuner.ipynb)                          
-Utilizes KerasTuner to automate the search for the optimal neural network architecture. Evaluates various configurations to identify the structure offering the best prediction accuracy.
-
 ### Predictive Modeling with XGBoost
 Demonstrates the application of the XGBoost framework to financial time series prediction.
+
+### [Model Architecture Optimization with KerasTuner](KerasTuner.ipynb)                          
+Utilizes KerasTuner to automate the search for the optimal neural network architecture. Evaluates various configurations to identify the structure offering the best prediction accuracy.
 
 ### LSTM-Based Time Series Forecasting
 Explores the use of Long Short-Term Memory (LSTM) networks for predicting market conditions, including steps for data preprocessing, model construction, training, and evaluation.
