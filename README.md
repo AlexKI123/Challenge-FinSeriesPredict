@@ -4,7 +4,7 @@ This repository presents a comprehensive exploration of machine learning techniq
 
 ## Key Components
 
-### [Exploratory Data Analysis (EDA)](Exploratory_Data_Analysis.ipynb)
+### [Exploratory Data Analysis (EDA)](DataExploration.ipynb)
 The repository includes an EDA notebook that guides the initial investigation of the financial time series data. This notebook covers data visualization, statistical summaries, and preliminary analysis, laying the groundwork for informed model development and hypothesis generation.
 
 
