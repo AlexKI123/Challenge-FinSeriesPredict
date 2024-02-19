@@ -24,7 +24,3 @@ Explores the use of Long Short-Term Memory (LSTM) networks for predicting market
 
 The data utilized in this project is derived from an online challenge available at [Challenge Data](https://challengedata.ens.fr), focusing on financial market trends prediction. Participants are encouraged to develop innovative machine learning solutions to predict future market conditions based on historical data. For more information on the dataset and challenge rules, visit the challenge website.
 
-## Objective
-
-The repository is intended for data scientists, researchers, and practitioners interested in applying machine learning to financial markets. It offers a blend of theoretical concepts and practical examples, aiming to contribute to the development of more accurate and efficient predictive models in the financial domain.
-
