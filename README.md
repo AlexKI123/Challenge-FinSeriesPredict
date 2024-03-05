@@ -12,7 +12,7 @@ The repository includes an EDA notebook that guides the initial investigation of
 A Python notebook implementing a Learning Rate Finder to empirically identify the most effective learning rate for training deep learning models. The findings from this exploration are crucial for setting the boundaries of the Cyclical Learning Rate (CLR) strategy, ensuring the selection of a learning rate range that promotes rapid convergence while maintaining model stability.
   
 ### [Predictive Modeling with XGBoost](XGBoost.ipynb)              
-Demonstrates the application of the XGBoost framework to financial time series prediction.
+A simple, baseline model for the financial time series prediction.
 
 ### [Model Architecture Optimization with KerasTuner](KerasTuner.ipynb)                          
 Utilizes KerasTuner to automate the search for the optimal neural network architecture. Evaluates various configurations to identify the structure offering the best prediction accuracy.
